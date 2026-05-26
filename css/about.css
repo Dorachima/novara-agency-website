@@ -148,12 +148,12 @@ nav ul li a:hover{
     font-weight:500;
 }
 .service-hero{
-    min-height:70vh;
+    min-height:60vh;
     display:flex;
     align-items:center;
     justify-content:center;
     text-align:center;
-    padding:120px 20px 80px;
+    padding:50px 20px 60px;
 }
 #service-hero-tag{
     color:#ff6b00;
@@ -299,7 +299,7 @@ nav ul li a:hover{
     transform:translateX(0);
 }
 .mission-vision{
-    padding:120px 50px;
+    padding:60px 50px;
 }
 
 .mission-vision .container{
@@ -393,7 +393,7 @@ nav ul li a:hover{
     line-height:1.8;
 }
 .cta{
-    padding:120px 20px;
+    padding:60px 20px;
 }
 .cta .container{
     max-width:1000px;

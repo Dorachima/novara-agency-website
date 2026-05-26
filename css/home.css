@@ -153,7 +153,7 @@ nav ul li a:hover{
     justify-content:center;
     text-align:center;
     flex-direction:column;
-    min-height:100vh;
+    min-height:80vh;
     padding:0 20px;
 }
 .hero-content{
@@ -264,7 +264,7 @@ nav ul li a:hover{
     background-color:#ff6b00;
 }
 .services{
-    padding-top:30px;
+    padding-top:60px;
     padding-bottom:30px;
 }
 .container{
@@ -439,7 +439,7 @@ nav ul li a:hover{
     justify-content:center;
     gap:80px;
     max-width:1200px;
-    margin:120px auto;
+    margin:60px auto;
     padding:0 50px;
 }
 .project-image{

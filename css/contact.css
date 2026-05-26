@@ -148,12 +148,12 @@ nav ul li a:hover{
     font-weight:500;
 }
 .service-hero{
-    min-height:70vh;
+    min-height:60vh;
     display:flex;
     align-items:center;
     justify-content:center;
     text-align:center;
-    padding:120px 20px 80px;
+    padding:50px 20px 60px;
 }
 #service-hero-tag{
     color:#ff6b00;
